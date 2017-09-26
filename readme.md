@@ -1,3 +1,6 @@
 Git courser
 
-este é um 
+este é um
+
+gostou do curso? quer mais?
+
